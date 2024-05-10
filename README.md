@@ -1,3 +1,6 @@
+![image](https://github.com/jhonnyseth/Register-Of-Animes/assets/135340514/9c8e26f6-6681-4766-90fc-59d0b2289278)
+
+
 # Register of Animes
 This project is a simple register application for managing information about anime series. It allows users to add, edit, delete, and search for anime entries.
 
