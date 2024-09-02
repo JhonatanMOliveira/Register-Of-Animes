@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Register_of_Animes
+﻿namespace Register_of_Animes.Models
 {
     public class Anime
     {
@@ -12,6 +6,5 @@ namespace Register_of_Animes
         public string Name { get; set; }
         public string Gender { get; set; }
         public string Episode { get; set; }
-
     }
 }

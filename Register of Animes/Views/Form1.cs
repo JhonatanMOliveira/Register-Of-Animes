@@ -1,4 +1,6 @@
 using System.Data;
+using Register_of_Animes.Data;
+using Register_of_Animes.Models;
 
 namespace Register_of_Animes
 {

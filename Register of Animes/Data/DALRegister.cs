@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Data.SQLite;
+﻿using Register_of_Animes.Models;
 using System.Data;
+using System.Data.SQLite;
 
-namespace Register_of_Animes
+namespace Register_of_Animes.Data
 {
     public class DALRegister
     {
@@ -24,7 +20,7 @@ namespace Register_of_Animes
         {
             try
             {
-                if (File.Exists(path) == false)
+                if (!File.Exists(path))
                 {
                     SQLiteConnection.CreateFile(path);
                 }
