@@ -18,7 +18,7 @@ Error handling for better user experience.
 # Installation
 To run the application locally, follow these steps:
 
-- Clone the repository to your local machine: https://github.com/your-username/Register-of-Animes.git
+- Clone the repository to your local machine
 
 - Open the solution file (Register_of_Animes.sln) in Visual Studio.
 - Build the solution to restore dependencies.
@@ -55,7 +55,7 @@ Tratamento de erros para uma melhor experiência do usuário.
 # Instalação
 
 Para executar a aplicação localmente, siga estes passos:
-- Clone o repositório para sua máquina local: https://github.com/your-username/Register-of-Animes.git
+- Clone o repositório para sua máquina local
 - Abra o arquivo de solução (Register_of_Animes.sln) no Visual Studio.
 - Compile a solução para restaurar as dependências.
 - Execute a aplicação dentro do Visual Studio ou construa e execute o arquivo executável (Register_of_Animes.exe) localizado no diretório bin.
